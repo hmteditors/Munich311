@@ -8,7 +8,8 @@ repository for work on the Munich Codex Graecus 311
 4. Edit main text. 
 
 ## Links:
-beta.hpcc.uh.edu 
+[beta.hpcc.uh.edu](beta.hpcc.uh.edu) 
+
 http://daten.digitale-sammlungen.de/~db/bsb00008171/images/index.html?fip=193.174.98.30&seite=266&pdfseitex=
 
 ## URNs:
