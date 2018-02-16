@@ -2,7 +2,7 @@
 repository for work on the Munich Codex Graecus 311
 
 ## Initial Tasks:
-1. Generate a codex model for Munich Codex Graecus 311
+1. Generate a codex model for Munich Codex Graecus 311. Example of roughly what it should look like [here](https://github.com/hmteditors/trinity/blob/master/collections/gen44.csv)
   - create a table with the columns (Page,Sequence,Label,DefaultImage)
   - Page: urn:cite2:munich:bsb311imgs.v1:MunCG311_pageX with X replaced by 1-3 digits for pages 1-739
   - Sequence: starting with 1
