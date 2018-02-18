@@ -1,7 +1,4 @@
----
-title: Images
-layout: page
----
+
 
 Thumbnail images are linked to an image citation tool
 
