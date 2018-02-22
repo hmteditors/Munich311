@@ -13,6 +13,8 @@ repository for work on the Munich Codex Graecus 311
   - DefaultImage:  urn:cite2:munich:bsb311imgs.v1:MunCG311_pageX with X replaced by 1-3 digits for pages 1-739
 
 2. Identify line ranges to page references
+- [example](https://github.com/hmteditors/trinity/blob/master/collections/LineRangestoFolio.csv)
+
 3. Index lines to image
 4. Edit main text.
 
