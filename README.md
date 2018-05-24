@@ -37,3 +37,14 @@ For generating a codex model, this URN refers to the page as an object:
 with X replaced by 1-3 digits for pages 1-739.
 
 Please note, page numbers are not folio numbers. Page numbers should be sequential.
+
+
+## Editing Main Text ##
+
+1. **Hard Copy Edit** Before you edit the main text in the XML, you should do a hardcopy edit. This means printing out an edition of the Iliad to be our base text and marking the differences as need.
+2. **XML Edit** after you've done your pass at hardcopy editing, you may update the xml file. You should follow [these instructions](http://hcmid.github.io/tech/software/) for downloading the software you'll need to edit in XML
+3. **XML Mark Up** There is a limited about of mark up we use in XML editing of the main text. Review the [editor's manual](http://homermultitext.github.io/hmt-editors-guide/guide/) here for more information. 
+
+**Other Helpful Links**
+1. [Typing Greek etc.](http://homermultitext.github.io/hmt-docs/tips/)
+2. [Other Useful References](http://homermultitext.github.io/hmt-docs/references/) 
