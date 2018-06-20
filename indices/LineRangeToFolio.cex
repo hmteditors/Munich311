@@ -220,7 +220,7 @@ urn:cts:greekLit:tlg0012.tlg001.munCG311:8.472-8.492,urn:cite:hmt:munCG311.113v
 urn:cts:greekLit:tlg0012.tlg001.munCG311:8.493-8.512,urn:cite:hmt:munCG311.114r
 urn:cts:greekLit:tlg0012.tlg001.munCG311:8.513-8.532,urn:cite:hmt:munCG311.114v
 urn:cts:greekLit:tlg0012.tlg001.munCG311:8.533-8.555,urn:cite:hmt:munCG311.115r
-urn:cts:greekLit:tlg0012.tlg001.munCG311:8.556-8.565,9.1-9.5,urn:cite:hmt:munCG311.115v
+urn:cts:greekLit:tlg0012.tlg001.munCG311:8.556-8.565, 9.1-9.5,urn:cite:hmt:munCG311.115v
 urn:cts:greekLit:tlg0012.tlg001.munCG311:9.6-9.24,urn:cite:hmt:munCG311.116r
 urn:cts:greekLit:tlg0012.tlg001.munCG311:9.25-9.42,urn:cite:hmt:munCG311.116v
 urn:cts:greekLit:tlg0012.tlg001.munCG311:9.43-9.60,urn:cite:hmt:munCG311.117r
@@ -277,5 +277,11 @@ urn:cts:greekLit:tlg0012.tlg001.munCG311:10.365-10.385,urn:cite:hmt:munCG311.142
 urn:cts:greekLit:tlg0012.tlg001.munCG311:10.386-10.405,urn:cite:hmt:munCG311.142v
 urn:cts:greekLit:tlg0012.tlg001.munCG311:10.406-10.425,urn:cite:hmt:munCG311.143r
 urn:cts:greekLit:tlg0012.tlg001.munCG311:10.426-10.445,urn:cite:hmt:munCG311.143v
-urn:cts:greekLit:tlg0012.tlg001.munCG311:10.446-10.425,urn:cite:hmt:munCG311.144r
-
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.446-10.465,urn:cite:hmt:munCG311.144r
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.466-10.485,urn:cite:hmt:munCG311.144v
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.486-10.503,urn:cite:hmt:munCG311.145r
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.504-10.522,urn:cite:hmt:munCG311.145v
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.523-10.540,urn:cite:hmt:munCG311.146r
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.541-10.558,urn:cite:hmt:munCG311.146v
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.559-10.576,urn:cite:hmt:munCG311.147r
+urn:cts:greekLit:tlg0012.tlg001.munCG311:10.577-10.579, 11.1-11.9,urn:cite:hmt:munCG311.147v
